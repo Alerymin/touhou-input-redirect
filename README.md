@@ -1,5 +1,5 @@
 # Touhou keyboard to controller input redirect for linux
-Script to redirect keyboard input from keyboard to controller with default settings for Touhou
+Easy script to redirect keyboard input from keyboard to controller with default settings for Touhou.
 
 ## Why ?
 I needed to play multiplayer on Touhou 3, but it only works in splitscreen and split keyboard, I needed a way to make one keyboard act like a controller and another to act as a real keyboard.
